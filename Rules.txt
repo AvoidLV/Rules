@@ -7,11 +7,13 @@
 5. Aizliegts neklausīt Administraciju !
 6. Aizliegts spamot čatu !
 7. Aizliegts čatā likt apkaunojošu, vai (18+) saturu !
+8. Aizliegts likt jebkāda satura video kas ir ilgāks par 7 minūtēm.
+9. Aizliegts noslēp kāda no administrātora vai kāda cita lietotaja sliktās darbības.
 
 
 # Jebkura noteikuma nepildīšana var veicināt šadus sodus!
-1. Pirmajā reizē tiks izteitks brīdinājums !
-2. Otrajā reizē jau pielietosim kick/mute lidz 24h !
-3. Trešajā reize nāksies samierināties ar nedēļas/mūža banu !
+* Pirmajā reizē tiks izteitks brīdinājums !
+* Otrajā reizē jau pielietosim kick/mute lidz 24h !
+* Trešajā reize nāksies samierināties ar nedēļas/mūža banu !
 
 
