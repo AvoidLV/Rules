@@ -4,6 +4,7 @@
 3. Aizliegts apsaukāt kādu no PLUG.DJ lietotājiem !
 4. Aizliegts likt klipu, kurš neatbilst šim standartam !
      * Ja tam nav jebkāda veida mūzikas saturs
+     * Pornogrāfija vai cita veida videoklipi (joki,feili u.c)
 5. Aizliegts neklausīt Administraciju !
 6. Aizliegts spamot čatu !
 7. Aizliegts čatā likt apkaunojošu, vai (18+) saturu !
